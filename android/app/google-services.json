@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "260842492269",
+    "firebase_url": "https://uas-harsans.firebaseio.com",
+    "project_id": "uas-harsans",
+    "storage_bucket": "uas-harsans.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260842492269:android:3d8a72dc8ccbcbac20ca64",
+        "android_client_info": {
+          "package_name": "com.harysans.uasne"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260842492269-21fm6q2m2116pgecgtj4hungi686ftf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZDDZboeXFpYVzPjT42XHuh5ytv5wSesc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260842492269-21fm6q2m2116pgecgtj4hungi686ftf3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
